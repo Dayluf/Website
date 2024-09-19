@@ -1,5 +1,9 @@
-h1{
-    font-size: 4rem;
+.et{
     margin-top: 10px;
-    color: aqua;
+    text-align: center;
+}
+
+.textheader{
+    font-size: 4rem;
+    color: blue;
 }
