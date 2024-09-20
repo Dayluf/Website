@@ -7,3 +7,10 @@
     font-size: 4rem;
     color: blue;
 }
+
+.section1{
+    padding-bottom: 80px;
+    height: 20px;
+    border: 5px;
+    border-color: blueviolet;
+}
